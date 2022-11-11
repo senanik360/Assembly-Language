@@ -1,3 +1,4 @@
+;PRINTING STAR USING LOOP
 .model small 
 .stack 100h
 .data  

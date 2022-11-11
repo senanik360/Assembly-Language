@@ -1,4 +1,4 @@
-
+;USING JUMP CHECKING A DIGIT ZERO, POSITIVE OR NEGATIVE
 .model small
 .stack 100h 
 .data  

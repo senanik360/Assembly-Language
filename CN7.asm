@@ -1,3 +1,5 @@
+;USING LOOP
+    ;PRINTING A-Z THEN Z-A
 .model small 
 .stack 100h
 .data  

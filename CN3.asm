@@ -11,7 +11,7 @@ MAIN PROC
           MOV AX, @DATA
           MOV DS, AX  ;DS FOR DATA SEGMENT
          
-         LEA DX, D1   ;LINE EFECTIVE ADDRESS  
+         LEA DX, D1   ;LEA -> LINE EFECTIVE ADDRESS  
        
       MOV AH, 9 
       INT 21H 
